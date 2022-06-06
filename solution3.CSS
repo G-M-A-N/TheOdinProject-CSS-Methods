@@ -1,0 +1,17 @@
+.parent{
+    position: relative;
+    border:inherit;
+    color: white;
+    background-color: black;
+
+}
+.child{
+    position:absolute;
+    background-color: yellow;
+    color: black;
+    top:inherit ;
+    left:3;
+    right: 480px;
+    bottom: 580px;
+ 
+}
