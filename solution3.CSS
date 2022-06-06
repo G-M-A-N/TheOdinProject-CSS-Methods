@@ -1,17 +1,17 @@
-.parent{
-    position: relative;
-    border:inherit;
+.btn1{
+    
     color: white;
     background-color: black;
 
 }
-.child{
-    position:absolute;
-    background-color: yellow;
+.btn2{
+   
+    background-color:yellow;
     color: black;
-    top:inherit ;
-    left:3;
-    right: 480px;
-    bottom: 580px;
+    
  
+}
+.btn1.btn2{
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman",sans-serif;
 }
