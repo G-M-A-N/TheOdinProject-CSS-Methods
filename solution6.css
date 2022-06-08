@@ -21,15 +21,17 @@
 div.text {
   color: green;
   font-size: 22px;
+
 }
+.small-para{
+font-size: 14px;
+}
+ 
 div.child {
   color: red;
   font-size: 12px;}
 
-.small-para{
-    font-size: 14;
-  }
-   
+
   
   
 
