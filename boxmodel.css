@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+
+}
+.Box-1{
+    background-color: red;
+    border: 6px dotted brown;
+    padding: 4px;
+    
+
+}
+.Box-2{
+    background-color: blue;
+    padding: 4px;
+    border: 6px double black;
+    border:circle;
+    margin: 10px;
+}
+.button{
+    display: inline-block;
+    contain: content;
+
+    border: 2px solid purple;
+    padding: 5px;
+}
+.button2{
+    display: inline-block;
+    contain: content;
+    border: 2px solid purple;
+    padding: 5px;
+}
